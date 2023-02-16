@@ -1,0 +1,7 @@
+C:\Users\MG\OneDrive\Dokument\Clo22dev\LabApp16\bin\Debug\net6.0\publish\LabApp16.exe
+C:\Users\MG\OneDrive\Dokument\Clo22dev\LabApp16\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\MG\OneDrive\Dokument\Clo22dev\LabApp16\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\MG\OneDrive\Dokument\Clo22dev\LabApp16\bin\Debug\net6.0\publish\LabApp16.dll
+C:\Users\MG\OneDrive\Dokument\Clo22dev\LabApp16\bin\Debug\net6.0\publish\LabApp16.deps.json
+C:\Users\MG\OneDrive\Dokument\Clo22dev\LabApp16\bin\Debug\net6.0\publish\LabApp16.runtimeconfig.json
+C:\Users\MG\OneDrive\Dokument\Clo22dev\LabApp16\bin\Debug\net6.0\publish\LabApp16.pdb
